@@ -1,0 +1,1 @@
+This dockerfile produces a docker image that can be used as the base image for any docker container. it gives the root user the password "updog" and exposes port 22 so that you can ssh into the container and poke around at it for troubleshooting.
